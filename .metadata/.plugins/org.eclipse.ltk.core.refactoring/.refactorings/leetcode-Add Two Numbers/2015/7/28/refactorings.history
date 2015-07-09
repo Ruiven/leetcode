@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ListNode.java&apos; to &apos;leetcode-Swap Nodes in Pairs/src/main&apos;&#x0A;- Original project: &apos;leetcode-Add Two Numbers&apos;&#x0A;- Destination element: &apos;leetcode-Swap Nodes in Pairs/src/main&apos;&#x0A;- Original element: &apos;main.ListNode.java&apos;" description="Copy compilation unit" destination="=leetcode-Swap Nodes in Pairs/src&lt;main" element1="/src&lt;main{ListNode.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1436361367532" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,44 @@
+package main;
+
+import javax.swing.text.StyledEditorKit.BoldAction;
+
+public class Solution {
+	public static int canCompleteCircuit(int[] gas, int[] cost) {
+		
+		boolean found = true;
+		
+		int max = 0;
+		int max_i = 0;
+		for(int i = 0; i < gas.length; i++) {
+			if(gas[i] - cost[i] > max) {
+				max = gas[i] - cost[i];
+				max_i = i;
+			}
+		}
+		
+				
+		int remaining = 0;
+		found = true;
+		for(int j = 0; j < gas.length; j++ ) {	//simulated running
+			remaining += gas[(max_i+j) % gas.length];
+			remaining -= cost[(max_i+j) % gas.length];
+			if(remaining < 0) {
+				found = false;
+				break;
+			}
+		}
+		if(found) {
+			return max_i;
+		}
+	
+		
+		return -1;
+        
+    }
+	
+	public static void main(String[] args) {
+		int gas[] = {1,2,3};
+		int cost[] = {1,2,3};
+		System.out.println(canCompleteCircuit(gas, cost));
+	}
+}

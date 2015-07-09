@@ -1,0 +1,22 @@
+package main;
+
+public class Solution {
+	public ListNode swapPairs(ListNode head) {
+		
+        ListNode p = head;
+        ListNode q = p.next;
+        ListNode newHead = q;
+        boolean odd = true;
+        
+        while(p != null) {
+        	p.next = p.next.next;
+        	q.next = p;
+        }
+		
+		
+    }
+	
+	public static void main(String[] args) {
+		
+	}
+}

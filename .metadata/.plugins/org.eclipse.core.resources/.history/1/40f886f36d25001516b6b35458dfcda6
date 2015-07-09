@@ -1,0 +1,44 @@
+package main;
+
+import javax.swing.text.StyledEditorKit.BoldAction;
+
+public class Solution {
+	public static int canCompleteCircuit(int[] gas, int[] cost) {
+		
+		boolean found = true;
+		
+		int min = 99999;
+		int min_i = 0;
+		for(int i = 0; i < gas.length; i++) {
+			if(gas[i] - cost[i] < min) {
+				min = gas[i] - cost[i];
+				min_i = i;
+			}
+		}
+		
+		min_i++;		
+		int remaining = 0;
+		found = true;
+		for(int j = 0; j < gas.length; j++ ) {	//simulated running
+			remaining += gas[(min_i+j) % gas.length];
+			remaining -= cost[(min_i+j) % gas.length];
+			if(remaining < 0) {
+				found = false;
+				break;
+			}
+		}
+		if(found) {
+			return min_i;
+		}
+	
+		
+		return -1;
+        
+    }
+	
+	public static void main(String[] args) {
+		int gas[] = {6,1,4,3,5};
+		int cost[] = {3,8,2,4,2};
+		System.out.println(canCompleteCircuit(gas, cost));
+	}
+}
