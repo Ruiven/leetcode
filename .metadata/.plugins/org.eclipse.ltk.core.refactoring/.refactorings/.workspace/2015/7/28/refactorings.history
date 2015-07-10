@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;leetcode-Permutations II&apos;" deleteContents="true" description="Delete resource &apos;leetcode-Permutations II&apos;" element1="/leetcode-Permutations II" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1436443307627"/>
+</session>

@@ -1,0 +1,32 @@
+package main;
+
+import java.util.Arrays;
+
+public class Solution {
+	public static boolean containsNearbyAlmostDuplicate(int[] nums, int k, int t) {
+		
+		int tempArray[] = new int[k];
+	
+		for(int i = 0; i < nums.length-k; i++) {
+			for(int j = 0; j < k; j++ )
+				tempArray[j] = nums[i+j];
+			
+			Arrays.sort(tempArray);
+			int minSub = 99999;
+			for(int j = 0; j < k-1; j++)
+				minSub = tempArray[j+1]-tempArray[j] < minSub ? tempArray[j+1]-tempArray[j] : minSub;			
+			if(minSub <= t)
+				return true;
+		}	
+        return false;
+    }
+
+	
+	
+	public static void main(String[] args) {
+		
+		int nums[] = {1,3,5,6,9};
+		System.out.println(containsNearbyAlmostDuplicate(nums, 2, 1));
+		
+	}
+}
