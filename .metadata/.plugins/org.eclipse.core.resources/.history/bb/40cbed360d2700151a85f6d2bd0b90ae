@@ -1,0 +1,51 @@
+package main;
+
+public class Solution {
+	boolean found;
+	
+	public boolean isMatch(String s, String p) {
+        
+		
+		
+		return false;
+    }
+	
+	public void backtrack(String s, String part, String pattern, int pos) {
+		if(s.equals(part)) {
+			found = true;
+			return;
+		}
+		
+		if(pattern.charAt(pos) == s.charAt(part.length())) {
+			part = part + s.charAt(part.length());
+			backtrack(s, part, pattern, pos+1);
+		}
+		
+		if(pattern.charAt(pos) == '.') {
+			part = part + s.charAt(part.length());
+			backtrack(s, part, pattern, pos+1);
+		}
+		
+		if(pattern.charAt(pos) == '*') {
+			if(pattern.charAt(pos-1) == '.') {
+				if(s.charAt(part.length()-1) == s.charAt(part.length())) {
+					part = part + s.charAt(part.length());
+					backtrack(s, part, pattern, pos);
+				}	
+			}
+			else {
+				if(s.charAt(part.length()) == pattern.charAt(pos-1)) {
+					part = part + s.charAt(part.length());
+					backtrack(s, part, pattern, pos);
+				}
+			}
+			
+		}
+			
+		
+		
+		
+		
+		
+	}
+}

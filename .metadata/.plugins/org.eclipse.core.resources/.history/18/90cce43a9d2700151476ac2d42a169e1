@@ -1,0 +1,44 @@
+package main;
+
+public class Solution {
+	
+	
+	public static boolean isMatch(String s, String p) {
+        
+		return dp(s, p, 0, 0);
+		
+		
+    }
+	
+	public static boolean dp(String s, String pattern, int spos, int ppos) {
+		
+		if(pattern.length() == ppos) {
+			System.out.println(s.length() == spos);
+			return s.length() == spos;
+		}
+			
+		
+		if(pattern.length()-1 == ppos || pattern.charAt(ppos + 1) != '*') {
+			if(pattern.charAt(ppos) != '.' ) {	//two letters
+				if(pattern.charAt(ppos) != s.charAt(spos))
+					return false;
+				else
+					return dp(s, pattern, spos+1, ppos+1);
+			}
+			else
+				return dp(s, pattern, spos+1, ppos+1);	//one dot, one letter
+				
+			
+					
+		}
+				
+		else
+			return true;
+	}
+	
+	public static void main(String[] args) {
+		String s = "aa";
+		String p = "a.";
+		System.out.println(isMatch(s, p));
+	}
+}

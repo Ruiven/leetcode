@@ -1,0 +1,19 @@
+package main;
+
+import java.util.LinkedList;
+import java.util.List;
+
+public class TrieNode {
+	
+	char c;
+	boolean isLeaf;
+	List<TrieNode> childrenList;
+	
+	public TrieNode() {
+		c = '';
+		isLeaf = false;
+		childrenList = new LinkedList<>();
+		
+	}
+
+}

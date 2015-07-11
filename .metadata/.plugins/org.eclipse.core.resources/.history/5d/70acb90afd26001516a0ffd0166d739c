@@ -1,0 +1,11 @@
+package main;
+
+public class Test {
+
+	
+	public static void main(String[] args) {
+		Trie tree = new Trie();
+		tree.insert("test");
+		System.out.print(tree.search("test"));
+	}
+}

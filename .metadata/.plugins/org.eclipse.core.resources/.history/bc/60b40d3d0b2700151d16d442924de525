@@ -1,0 +1,23 @@
+package main;
+
+public class Solution {
+	boolean found;
+	
+	public boolean isMatch(String s, String p) {
+        
+		
+		
+		return false;
+    }
+	
+	public void backtrack(String s, String part, String pattern) {
+		if(s.equals(part)) {
+			found = true;
+			return;
+		}
+		
+		
+		
+		
+	}
+}

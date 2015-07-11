@@ -1,0 +1,38 @@
+package main;
+
+public class Solution {
+	static boolean found;
+	
+	public static boolean isMatch(String s, String p) {
+        
+		dp(s, p, 0, 0);
+		
+		return found;
+    }
+	
+	public static boolean dp(String s, String pattern, int spos, int ppos) {
+		
+		if(pattern.length() == ppos)
+			return s.length() == spos;
+		
+		if(pattern.charAt(ppos + 1) != '*') {
+			if(pattern.charAt(ppos) != '.' ) {	//two letters
+				if(pattern.charAt(ppos) != s.charAt(spos))
+					return false;
+				return dp(s, pattern, spos+1, ppos+1);
+			}
+			return dp(s, pattern, spos+1, ppos+1);	//one dot, one letter
+				
+			
+					
+		}
+				
+	
+	}
+	
+	public static void main(String[] args) {
+		String s = "aa";
+		String p = "a";
+		System.out.println(isMatch(s, p));
+	}
+}
