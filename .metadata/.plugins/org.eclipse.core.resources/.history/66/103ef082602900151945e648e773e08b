@@ -1,0 +1,10 @@
+package main;
+
+public class Solution {
+	public static List<String> generateParenthesis(int n) {
+        
+    }
+
+	
+	
+}

@@ -1,0 +1,32 @@
+package main;
+
+class ListNode {
+	int val;
+	ListNode next;
+	ListNode(int x) { val = x; }
+}
+
+
+public class Solution {
+	public ListNode partition(ListNode head, int x) {
+        ListNode t = head;
+        ListNode smallHead = new ListNode(0), bigHead = new ListNode(0);
+        ListNode smallNode = smallHead, bigNode = bigHead;
+        while(t != null) {
+        	if(t.val < x) {
+        		smallNode.val = t.val;
+        		smallNode = smallNode.next = new ListNode(0);
+        	}
+        	else {
+        		bigNode.val = t.val;
+        		bigNode = bigNode.next = new ListNode(0);
+        	}
+        	t = t.next;
+        }
+		
+        smallNode.next = bigHead;
+		
+		
+		return smallHead;
+    }
+}

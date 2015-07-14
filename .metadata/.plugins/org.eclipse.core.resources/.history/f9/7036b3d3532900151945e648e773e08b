@@ -1,0 +1,23 @@
+package main;
+
+public class Solution {
+	
+	public static int romanToInt(String s) {
+        int out = 0;
+        for(int i = 0 ; i < s.length(); i++) {
+        	if(s.charAt(i) == 'M') {
+        		if(i == 0 || i > 0 && s.charAt(i-1) != 'C')
+        			out += 1000;
+        		if(i > 0 && s.charAt(i-1) == 'C')
+        			out += 900;
+        	}
+        		
+        
+        }
+        return out;	
+    }
+	
+	public static void main(String[] args) {
+		System.out.print(romanToInt("CM"));
+	}
+}

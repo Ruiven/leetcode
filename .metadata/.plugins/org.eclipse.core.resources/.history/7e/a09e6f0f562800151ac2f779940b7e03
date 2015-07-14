@@ -1,0 +1,44 @@
+package main;
+
+class ListNode {
+	int val;
+	ListNode next;
+	ListNode(int x) { val = x; }
+}
+
+
+public class Solution {
+	public static ListNode partition(ListNode head, int x) {
+        ListNode t = head;
+        ListNode smallHead = new ListNode(0), bigHead = new ListNode(0);
+        ListNode smallNode = smallHead, bigNode = bigHead;
+        ListNode prev = null;
+        while(t != null) {
+        	if(t.val < x) {
+        		smallNode.val = t.val;
+        		prev = smallNode;
+        		smallNode = smallNode.next = new ListNode(0);
+        	}
+        	else {
+        		bigNode.val = t.val;
+        		bigNode = bigNode.next = new ListNode(0);
+        	}
+        	t = t.next;
+        }
+		
+        prev.next = bigHead;	
+		return smallHead;
+    }
+	
+	public static void main(String[] args) {
+		ListNode head = new ListNode(1);
+		head.next = new ListNode(4);
+		head.next.next = new ListNode(3);
+		head.next.next.next = new ListNode(2);
+		head.next.next.next.next = new ListNode(5);
+		head.next.next.next.next.next = new ListNode(2);
+	
+		partition(head, 3);
+		
+	}
+}

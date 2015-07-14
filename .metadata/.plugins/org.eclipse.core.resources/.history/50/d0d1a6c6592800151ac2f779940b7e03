@@ -1,0 +1,30 @@
+package main;
+
+class TreeNode {
+	int val;
+	TreeNode left;
+	TreeNode right;
+	TreeNode(int x) { val = x; }
+}
+
+public class Solution {
+	public void flatten(TreeNode root) {		
+		if(null == root)
+			return;
+		
+		TreeNode headNode = new TreeNode(root.val);
+        
+    }
+	
+	public void dfs(TreeNode node, TreeNode head) {
+		TreeNode t = head;
+		while(t.right != null)
+			t = t.right;
+		
+		t.right = new TreeNode(node.val);
+		dfs(node.left, head);
+		dfs(node.right, head);
+	}
+	
+	
+}

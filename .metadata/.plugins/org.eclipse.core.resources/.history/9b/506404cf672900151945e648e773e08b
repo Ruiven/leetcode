@@ -1,0 +1,48 @@
+package main;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Solution {
+	public static List<String> generateParenthesis(int n) {
+		List<String> solList = new ArrayList<String>();
+		int able[] = new int[n];
+		
+		backtrack("", solList, n, able);
+		
+		return solList;
+        
+    }
+
+	static void backtrack(String solution, List<String> solList, int n,  int[] able ) {
+		
+		if(solution.length() == 2*n) {
+			solList.add(new String(solution));
+			return;
+		}
+		
+		for(int i = 0 ; i < n; i++ ) {
+			if(able[i] == 2)
+				continue;
+			if(able[i] == 0) {
+				solution = solution + '(';
+				able[i]++;
+				backtrack(solution, solList, n, able);
+				solution = solution.substring(0, solution.length()-1);
+				able[i]--;
+			}
+			if(able[i] == 1) {
+				solution = solution + ')';
+				able[i]++;
+				backtrack(solution, solList, n, able);
+				solution = solution.substring(0, solution.length()-1);
+				able[i]--;
+			}
+				
+		}
+	}
+	
+	public static void main(String[] args) {
+		System.out.println(generateParenthesis(2));
+	}
+}
