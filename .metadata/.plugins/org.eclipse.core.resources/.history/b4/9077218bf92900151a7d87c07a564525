@@ -1,0 +1,68 @@
+package main;
+
+class ListNode {
+	int val;
+	ListNode next;
+	ListNode(int x) { val = x; }
+}
+
+public class Solution {
+	public static ListNode reverseKGroup(ListNode head, int k) {
+		ListNode newHead = head,oldHead = null, p = null, q = null;
+		for(int i = 0 ; i < k-1; i++ ) {
+			newHead = newHead.next;
+			if(newHead == null)
+				return head;
+		}
+		
+		p = head;
+		q = p.next;
+		
+		while(true) {
+			for(int i = 0 ; i < k-1; i++) {
+				if(i == 0)
+					oldHead = p;
+				ListNode r = q.next;
+				q.next = p;
+				p = q;
+				q = r;
+			}
+			
+			ListNode nextHead = q;
+			for(int i = 0 ; i < k-1; i++) {
+				if(nextHead== null)
+					return newHead;
+				nextHead = nextHead.next;
+			}
+			
+			oldHead.next = nextHead;
+			p = q;
+			q = q.next;
+		}
+		
+	}
+	
+	static ListNode generateLinked(int []nums) {
+		ListNode head = null;
+		ListNode prev = null, t;
+		for(int i = 0; i < nums.length; i++) {
+			t = new ListNode(nums[i]);
+			if(prev != null){
+				prev.next = t;
+				prev = t;
+			}
+			else {
+				head = t;
+				prev = t;
+			}
+			
+		
+		}
+		return head;
+	}
+	
+	public static void main(String[] args) {
+		int nums[] = {1,2,3,4,5,6};
+		reverseKGroup(generateLinked(nums), 3);
+	}
+}

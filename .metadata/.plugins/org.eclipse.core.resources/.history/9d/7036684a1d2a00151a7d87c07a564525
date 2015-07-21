@@ -1,0 +1,14 @@
+package main;
+
+public class Solution {
+	public int divide(int dividend, int divisor) {
+        int divid, divis;
+		
+		if(dividend < 0)
+        	divid = - dividend;
+		if(divisor < 0)
+			divis = - divisor;
+		
+		
+    }
+}

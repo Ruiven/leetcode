@@ -1,0 +1,39 @@
+package main;
+
+public class Solution {
+	public static int longestValidParentheses(String s) {
+        int left = 0, right = 0;
+        int sub[] = new int[s.length()];
+        for(int i = 0 ; i < s.length(); i++) {
+        	if(s.charAt(i) == '(')
+        		left++;
+        	else
+        		right++;
+        	sub[i] = left-right;
+        }
+        
+        //boolean fail = false;
+        int maxLength = 0;
+        
+        for(int i = 0; i < s.length() && s.charAt(i) == '('; i++) {
+        	for(int j = i; j < s.length(); j++ ) {
+        		if(i == 0)
+        			continue;
+        		if(sub[j]-sub[i-1] < 0) {
+        			break;
+        		}
+        		
+        		if(s.charAt(j) == ')' && sub[j]-sub[i-1] == 0)
+        			maxLength = j-i+1 > maxLength ? j-i+1 : maxLength;
+        			
+        	}
+        }
+        
+        return maxLength;
+    }
+	
+	public static void main(String[] args) {
+		String string = ")()())";
+		System.out.prinln(longestValidParentheses(string));
+	}
+}

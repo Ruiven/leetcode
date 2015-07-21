@@ -1,9 +1,0 @@
-package main;
-
-public class TrieNode {
-	
-	public TrieNode() {
-		
-	}
-
-}

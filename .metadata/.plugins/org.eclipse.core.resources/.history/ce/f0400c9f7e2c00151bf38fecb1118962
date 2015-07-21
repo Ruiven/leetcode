@@ -1,0 +1,26 @@
+package main;
+
+public class Solution {
+	public static String multiply(String num1, String num2) {
+        String res = "";
+        int up = 0;
+        
+        for(int i = 0 ; i < num2.length(); i++) {
+        	for(int j = num1.length()-1; j >= 0; j--) {
+        		int temp = (num1.charAt(j)-'0') * (num2.charAt(i)-'0') + up;
+        		res = (char)(temp%10+ + '0') + res;
+        		up = temp / 10;	
+        	}
+        	if(up > 0)
+        		res = res + (char)(up + '0');
+        }
+        	
+		return res;
+		
+		
+    }
+	
+	public static void main(String[] args) {
+		System.out.println(multiply("6", "7"));
+	}
+}

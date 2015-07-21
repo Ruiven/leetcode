@@ -1,0 +1,29 @@
+package main;
+
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.List;
+
+class Interval {
+	int start;
+	int end;
+	Interval() { start = 0; end = 0; }
+	Interval(int s, int e) { start = s; end = e; }
+}
+
+class IntervalComparator implements Comparator<Interval> {
+	
+	public int compare(Interval v1, Interval v2) {
+		return v1.start - v2.start;		
+	}
+}
+
+public class Solution {
+	public static List<Interval> merge(List<Interval> intervals) {
+        Collections.sort(intervals, new IntervalComparator());
+    }
+	
+	public static void main(String[] args) {
+		
+	}
+}

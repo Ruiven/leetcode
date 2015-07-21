@@ -1,0 +1,18 @@
+package main;
+
+public class Solution {
+	public double myPow(double x, int n) {
+		
+	   double copy = x;
+       while(n > 0) {
+    	   if(n % 2 == 0) {
+    		   n /= 2;
+    		   x = x * x;
+    	   }
+    	   else{
+    		   n -= 1;
+    		   x *= copy;
+    	   }   	   
+       }
+    }
+}

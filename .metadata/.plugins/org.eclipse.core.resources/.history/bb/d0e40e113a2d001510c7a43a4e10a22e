@@ -1,0 +1,17 @@
+package main;
+
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Map;
+
+public class Solution {
+	public List<String> anagrams(String[] strs) {
+		
+		Map<char[], Integer> map = new HashMap<char[], Integer>();
+		
+		for (int i = 0; i < strs.length; i++) {
+			char []temp = strs[i].toCharArray();
+			Arrays.sort(temp);
+		}	
+    }
+}

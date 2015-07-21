@@ -1,0 +1,22 @@
+package main;
+
+import java.util.HashMap;
+
+public class Solution {
+	public List<Integer> findSubstring(String s, String[] words) {
+		int step = words[0].length();
+		
+		HashMap<String, Integer> wordTime = new HashMap<>();
+		
+		for(String word : words) {
+			if(!wordTime.containsKey(word))
+				wordTime.put(word, 1);
+			else 
+				wordTime.put(word, wordTime.get(word)+1);			
+		}
+	
+		
+		
+        
+    }
+}
