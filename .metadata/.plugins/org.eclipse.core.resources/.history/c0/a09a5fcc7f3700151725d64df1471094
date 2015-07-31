@@ -1,0 +1,57 @@
+package main;
+
+class ListNode {
+	int val;
+	ListNode next;
+	ListNode(int x) { val = x; }
+}
+
+
+public class Solution {
+	public ListNode reverseBetween(ListNode head, int m, int n) {
+        ListNode newHead = null, newTail = null;
+        int i = 1;
+        ListNode p = head;
+        ListNode leftTail = null, leftHead = null, rightTail = null, rightHead = null;
+        ListNode prev = head;
+        while(p != null) {
+        	if(i == m-1) {
+        		leftTail = p;
+        		p = p.next;
+        		continue;
+        	}	
+        	if(i == m) {
+        		prev = p;
+        		rightHead = p;
+        		p = p.next;
+        		continue;
+        		
+        	}
+        		
+        	if(i == n) {
+        		leftTail = p;
+        		p = p.next;
+        		continue;
+        	}
+        	if(i == n+1) {
+        		rightTail = p;
+        		p = p.next;
+        		continue;
+        	}
+        	
+        	if(i > m && i <= n) {
+        		ListNode next = p.next;
+        		p.next = prev;
+        		prev = p;
+        		p = next;
+        		
+        	}
+        	
+        	leftHead.next = leftTail;
+        	rightHead.next = rightTail;
+        	
+        }
+        
+        
+    }
+}
