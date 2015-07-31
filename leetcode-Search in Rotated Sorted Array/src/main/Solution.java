@@ -23,11 +23,14 @@ public class Solution {
 				
 			return binary(nums, begin, (begin+end)/2-1, target);	
 		}
-		else {										//former half is sorted
+		else if(nums[(begin + end)/2] > nums[begin]){										//former half is sorted
 			if(nums[(begin + end)/2] > target && target >= nums[begin])
 				return sortedBinary(nums, begin, (begin+end)/2-1, target);
 			else
 				return binary(nums, (begin+end)/2+1, end, target);				
+		}
+		else {
+			return binary(nums, begin+1, end, target);		
 		}
 	}
 	
@@ -46,7 +49,7 @@ public class Solution {
 	}
 	
 	public static void main(String[] args) {
-		int nums[] = {3,1};
-		System.out.println(search(nums, 1));
+		int nums[] = {1,3,1,1,1};
+		System.out.println(search(nums, 3));
 	}
 }

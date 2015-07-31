@@ -1,0 +1,21 @@
+package main;
+
+public class Solution {
+	public void merge(int[] nums1, int m, int[] nums2, int n) {
+        int i = 0, j = 0;
+        int inc = 0;
+        while(i < m && j < n) {
+        	if(nums1[i] < nums2[j]) {
+        		i++;
+        		continue;
+        	}
+        	
+        	for(int k = m+inc; k >= i; k--) {
+        		nums1[k]
+        	}
+        	
+        	
+        	
+        }
+    }
+}
