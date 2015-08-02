@@ -42,7 +42,7 @@ public class Solution {
     }
 	
 	public static void main(String[] args) {
-		String[] strs = {"", "", ""};
+		String[] strs = {"abc", "cba", "def", "edf"};
 		System.out.println(anagrams(strs));
 	}
 }
