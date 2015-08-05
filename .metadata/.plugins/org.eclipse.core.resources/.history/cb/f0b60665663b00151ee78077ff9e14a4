@@ -1,0 +1,22 @@
+package main;
+
+class TreeNode {
+	int val;
+	TreeNode left;
+	TreeNode right;
+	TreeNode(int x) { val = x; }
+}
+
+public class Solution {
+	public TreeNode buildTree(int[] preorder, int[] inorder) {
+        if(preorder == null || preorder.length == 0)
+        	return null;
+        
+        return recursive(preorder, 0, inorder, 0);
+        
+    }
+	
+	TreeNode recursive(int[] preoder, int p, int[] inorder, int q) {
+		
+	}
+}

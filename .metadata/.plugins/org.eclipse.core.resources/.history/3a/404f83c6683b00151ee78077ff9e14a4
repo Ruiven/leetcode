@@ -1,0 +1,39 @@
+package main;
+
+class TreeNode {
+	int val;
+	TreeNode left;
+	TreeNode right;
+	TreeNode(int x) { val = x; }
+}
+
+public class Solution {
+	public static TreeNode buildTree(int[] preorder, int[] inorder) {
+        if(preorder == null || preorder.length == 0)
+        	return null;
+        
+        return recursive(preorder, 0, preorder.length-1, inorder, 0, inorder.length-1);
+        
+    }
+	
+	static TreeNode recursive(int[] preoder, int pl, int pr, int[] inorder, int il, int ir) {
+		if(pl == pr)
+			return new TreeNode(preoder[pl]);
+		
+		TreeNode head = new TreeNode(preoder[pl]);
+		int i = 0;
+		for(i = il; i <= ir; i++)
+			if(inorder[i] == preoder[pl])
+				break;
+		head.left = recursive(preoder, pl+1, pl+i-il, inorder, il, i-1);
+		head.right = recursive(preoder, pl+i-il+1, pr, inorder, i+1, ir);
+		return head;
+	}
+	
+	public static void main(String[] args) {
+		int []preorder = {1,2,4,5,3,6,7};
+		int []inorder = {4,2,5,1,6,3,7};
+		TreeNode node = buildTree(preorder, inorder);
+		System.out.print(node);
+	}
+}

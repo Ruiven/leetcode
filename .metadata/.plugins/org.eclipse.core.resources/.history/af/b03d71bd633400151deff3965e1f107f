@@ -1,7 +1,0 @@
-package main;
-
-public class Solution {
-	public List<List<Integer>> subsets(int[] nums) {
-        int up = (int) Math.pow(2, nums.length);
-    }
-}
