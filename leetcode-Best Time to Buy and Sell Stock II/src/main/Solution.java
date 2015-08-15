@@ -17,8 +17,8 @@ public class Solution {
 				
 			}
 		}
-		
-		profit += prices[prices.length-1] - min;
+		if(prices[prices.length-1] > min )
+			profit += prices[prices.length-1] - min;
 		return profit;
     }
 }
