@@ -1,0 +1,54 @@
+package main;
+
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Queue;
+import java.util.Set;
+
+public class Solution {
+	public List<List<String>> findLadders(String beginWord, String endWord, Set<String> wordDict) {
+		List<List<String>> res = new ArrayList<List<String>>();
+		List<String> part = new ArrayList<>();
+		
+		Queue<String> queue = new LinkedList<>();
+		queue.add(beginWord);
+		
+		
+		
+		Set<String> visited = new HashSet<>();
+		visited.add(beginWord);
+		
+		part.add(beginWord);
+		
+		
+		while(!queue.isEmpty() ) {
+			String temp = queue.poll();
+			
+			
+			for(int i = 0 ; i < temp.length(); i++) {
+				char[] tempCharArr = temp.toCharArray();
+				for(char c = 'a'; c <= 'z' ; c++ ) {
+					if(c == tempCharArr[i])
+						continue;
+					tempCharArr[i] = c;
+					String changed = new String(tempCharArr);
+					if(changed.equals(endWord)) {
+						part.add(endWord);
+						res.add(new ArrayList<String>(part));
+					}
+					
+					if(wordDict.contains(changed) && !visited.contains(changed)) {
+						queue.add(changed);
+						visited.add(changed);
+					}
+				}
+				System.out.print("");
+			}
+			
+			
+		}
+		return res;
+    }
+}

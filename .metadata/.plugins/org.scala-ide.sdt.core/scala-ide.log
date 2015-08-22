@@ -1,0 +1,690 @@
+2015-08-18 11:37:45,426  WARN [ModalContext] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 11:37:45,428  WARN [ModalContext] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 11:37:51,807  WARN [Worker-2] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 11:37:51,808  WARN [Worker-2] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 11:38:06,977  WARN [Worker-2] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 11:38:06,977  WARN [Worker-2] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 11:38:06,994  WARN [Worker-2] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 11:38:06,994  WARN [Worker-2] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 11:39:11,725  WARN [Worker-2] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 11:39:11,726  WARN [Worker-2] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 11:39:11,761  WARN [Worker-2] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 11:39:11,762  WARN [Worker-2] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 11:39:11,780  WARN [Worker-2] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 11:39:11,780  WARN [Worker-2] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 11:39:26,986  WARN [Worker-3] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 11:39:26,986  WARN [Worker-3] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 11:39:27,011  WARN [Worker-3] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 11:39:27,011  WARN [Worker-3] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 11:39:27,030  WARN [Worker-3] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 11:39:27,031  WARN [Worker-3] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 11:39:33,671  WARN [Worker-4] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 11:39:33,671  WARN [Worker-4] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 11:39:33,711  WARN [Worker-4] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 11:39:33,711  WARN [Worker-4] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 11:39:33,724  WARN [Worker-4] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 11:39:33,724  WARN [Worker-4] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 11:57:51,264  WARN [ModalContext] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 11:57:51,272  WARN [ModalContext] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 11:57:51,385  WARN [ModalContext] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 11:57:51,385  WARN [ModalContext] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 11:57:51,743  WARN [Worker-7] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 11:57:51,744  WARN [Worker-7] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 11:57:51,781  WARN [Worker-7] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 11:57:51,781  WARN [Worker-7] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 11:57:51,797  WARN [Worker-7] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 11:57:51,797  WARN [Worker-7] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:11:48,679  WARN [ModalContext] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:11:48,681  WARN [ModalContext] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:11:48,759  WARN [ModalContext] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:11:48,759  WARN [ModalContext] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:11:49,113  WARN [Worker-6] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:11:49,113  WARN [Worker-6] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:11:49,137  WARN [Worker-6] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:11:49,137  WARN [Worker-6] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:11:49,158  WARN [Worker-6] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:11:49,158  WARN [Worker-6] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:12:31,817  WARN [Worker-6] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:12:31,817  WARN [Worker-6] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:12:31,845  WARN [Worker-6] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:12:31,845  WARN [Worker-6] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:12:31,862  WARN [Worker-6] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:12:31,863  WARN [Worker-6] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:12:52,225  WARN [main] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:12:52,225  WARN [main] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:12:53,843  WARN [main] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:12:53,844  WARN [main] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:12:54,164  WARN [Worker-0] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:12:54,166  WARN [Worker-0] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:12:54,234  WARN [Worker-0] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:12:54,234  WARN [Worker-0] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:12:59,564  WARN [Worker-0] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:12:59,565  WARN [Worker-0] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:13:00,605  WARN [Worker-3] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:13:00,605  WARN [Worker-3] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:13:00,624  WARN [Worker-3] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:13:00,624  WARN [Worker-3] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:13:00,658  WARN [Worker-3] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:13:00,659  WARN [Worker-3] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:13:18,969  WARN [Worker-0] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:13:18,969  WARN [Worker-0] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:13:18,995  WARN [Worker-0] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:13:18,995  WARN [Worker-0] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:13:22,343  WARN [Worker-0] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:13:22,343  WARN [Worker-0] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:13:59,076  WARN [Worker-3] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:13:59,076  WARN [Worker-3] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:13:59,089  WARN [Worker-3] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:13:59,089  WARN [Worker-3] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:14:34,651  WARN [Worker-0] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:14:34,651  WARN [Worker-0] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:14:34,671  WARN [Worker-0] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:14:34,671  WARN [Worker-0] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:14:48,342  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:14:48,342  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:14:48,355  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:14:48,355  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:15:09,498  WARN [Worker-7] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:15:09,498  WARN [Worker-7] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:15:09,511  WARN [Worker-7] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:15:09,512  WARN [Worker-7] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:15:17,225  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:15:17,235  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:15:17,249  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:15:17,250  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:15:19,139  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:15:19,139  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:16:57,436  WARN [Worker-11] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:16:57,437  WARN [Worker-11] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:16:57,461  WARN [Worker-11] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:16:57,462  WARN [Worker-11] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:17:09,915  WARN [Worker-9] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:17:09,915  WARN [Worker-9] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:17:09,932  WARN [Worker-9] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:17:09,933  WARN [Worker-9] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:19:41,847  WARN [Worker-11] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:19:41,855  WARN [Worker-11] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:19:41,866  WARN [Worker-11] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:19:41,866  WARN [Worker-11] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:19:57,226  WARN [Worker-9] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:19:57,227  WARN [Worker-9] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:19:57,242  WARN [Worker-9] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:19:57,242  WARN [Worker-9] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:21:50,487  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:21:50,495  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:21:50,508  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:21:50,508  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:54:09,454  WARN [Worker-12] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:54:09,455  WARN [Worker-12] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:54:09,472  WARN [Worker-12] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:54:09,472  WARN [Worker-12] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:54:17,066  WARN [Worker-14] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:54:17,066  WARN [Worker-14] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:54:17,088  WARN [Worker-14] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:54:17,088  WARN [Worker-14] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:55:31,067  WARN [Worker-13] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:55:31,068  WARN [Worker-13] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 12:55:31,079  WARN [Worker-13] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 12:55:31,080  WARN [Worker-13] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:00:07,073  WARN [Worker-7] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:00:07,074  WARN [Worker-7] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:00:07,084  WARN [Worker-7] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:00:07,084  WARN [Worker-7] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:04:24,431  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:04:24,432  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:04:24,448  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:04:24,448  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:04:28,287  WARN [Worker-15] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:04:28,287  WARN [Worker-15] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:04:28,304  WARN [Worker-15] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:04:28,306  WARN [Worker-15] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:04:37,631  WARN [Worker-15] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:04:37,631  WARN [Worker-15] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:04:37,640  WARN [Worker-15] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:04:37,641  WARN [Worker-15] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:07:18,755  WARN [Worker-15] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:07:18,755  WARN [Worker-15] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:07:18,762  WARN [Worker-15] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:07:18,762  WARN [Worker-15] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:07:41,479  WARN [Worker-9] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:07:41,479  WARN [Worker-9] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:07:41,616  WARN [Worker-9] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:07:41,616  WARN [Worker-9] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:07:42,145  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:07:42,145  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:22:46,477  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:22:46,477  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:22:47,207  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:22:47,207  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:24:45,227  WARN [Worker-16] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:24:45,227  WARN [Worker-16] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:24:45,340  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:24:45,340  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:24:45,348  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:24:45,348  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:24:45,877  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:24:45,878  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:24:47,738  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:24:47,739  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:24:48,765  WARN [Worker-15] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:24:48,765  WARN [Worker-15] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:24:48,774  WARN [Worker-15] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:24:48,774  WARN [Worker-15] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:24:48,786  WARN [Worker-15] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:24:48,787  WARN [Worker-15] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:26:19,380  WARN [Worker-9] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:26:19,381  WARN [Worker-9] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:26:19,399  WARN [Worker-9] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:26:19,399  WARN [Worker-9] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:26:25,123  WARN [Worker-9] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:26:25,123  WARN [Worker-9] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:26:42,451  WARN [Worker-15] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:26:42,452  WARN [Worker-15] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:26:42,463  WARN [Worker-15] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:26:42,463  WARN [Worker-15] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:26:43,969  WARN [Worker-15] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:26:43,970  WARN [Worker-15] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:56:30,654  WARN [ModalContext] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:56:30,655  WARN [ModalContext] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:56:30,789  WARN [ModalContext] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:56:30,789  WARN [ModalContext] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:56:31,085  WARN [Worker-20] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:56:31,085  WARN [Worker-20] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:56:31,122  WARN [Worker-20] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:56:31,122  WARN [Worker-20] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:56:31,130  WARN [Worker-20] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:56:31,130  WARN [Worker-20] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:57:05,956  WARN [Worker-14] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:57:05,956  WARN [Worker-14] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:57:05,981  WARN [Worker-14] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:57:05,981  WARN [Worker-14] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:57:05,992  WARN [Worker-14] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:57:05,992  WARN [Worker-14] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:57:25,724  WARN [Worker-14] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:57:25,724  WARN [Worker-14] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:57:25,734  WARN [Worker-14] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:57:25,734  WARN [Worker-14] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:57:25,744  WARN [Worker-14] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:57:25,744  WARN [Worker-14] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:57:31,777  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:57:31,777  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:57:31,798  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:57:31,799  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:57:31,811  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:57:31,813  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:58:19,435  WARN [Worker-20] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:58:19,436  WARN [Worker-20] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:58:19,465  WARN [Worker-20] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:58:19,465  WARN [Worker-20] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:58:19,473  WARN [Worker-20] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:58:19,473  WARN [Worker-20] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:59:47,095  WARN [Worker-9] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:59:47,095  WARN [Worker-9] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:59:47,116  WARN [Worker-9] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:59:47,116  WARN [Worker-9] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 13:59:47,124  WARN [Worker-9] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 13:59:47,124  WARN [Worker-9] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:00:55,863  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:00:55,863  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:00:55,879  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:00:55,879  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:00:55,886  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:00:55,886  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:01:17,804  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:01:17,804  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:01:17,932  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:01:17,933  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:04:06,296  WARN [Worker-20] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:04:06,296  WARN [Worker-20] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:04:06,323  WARN [Worker-20] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:04:06,323  WARN [Worker-20] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:05:58,558  WARN [Worker-20] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:05:58,558  WARN [Worker-20] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:06:30,484  WARN [main] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:06:30,485  WARN [main] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:06:35,249  WARN [main] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:06:35,249  WARN [main] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:06:35,437  WARN [Worker-21] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:06:35,438  WARN [Worker-21] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:06:59,221  WARN [Worker-20] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:06:59,221  WARN [Worker-20] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:07:10,082  WARN [Worker-19] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:07:10,082  WARN [Worker-19] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:07:13,453  WARN [Worker-19] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:07:13,453  WARN [Worker-19] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:07:47,703  WARN [Worker-21] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:07:47,703  WARN [Worker-21] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:08:11,385  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:08:11,386  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:08:15,209  WARN [Worker-14] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:08:15,209  WARN [Worker-14] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:08:30,590  WARN [Worker-20] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:08:30,590  WARN [Worker-20] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:08:36,426  WARN [Worker-21] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:08:36,426  WARN [Worker-21] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:08:53,570  WARN [Worker-20] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:08:53,570  WARN [Worker-20] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:09:04,643  WARN [Worker-19] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:09:04,643  WARN [Worker-19] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:09:19,843  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:09:19,844  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:10:10,727 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 14:10:10,728 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 14:10:10,728 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 14:10:16,205  WARN [Worker-16] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:10:16,205  WARN [Worker-16] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:10:33,671  WARN [Worker-20] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:10:33,671  WARN [Worker-20] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:10:44,564  WARN [Worker-20] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:10:44,564  WARN [Worker-20] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:12:09,870  WARN [Worker-22] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:12:09,870  WARN [Worker-22] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:12:12,210  WARN [Worker-21] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:12:12,210  WARN [Worker-21] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:12:29,051  WARN [Worker-9] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:12:29,051  WARN [Worker-9] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:12:50,000  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:12:50,001  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:13:06,977  WARN [Worker-22] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:13:06,978  WARN [Worker-22] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:14:10,560  WARN [Worker-20] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:14:10,560  WARN [Worker-20] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:15:10,500  WARN [Worker-20] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:15:10,500  WARN [Worker-20] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:15:24,438  WARN [Worker-14] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:15:24,439  WARN [Worker-14] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:16:49,982  WARN [Worker-16] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:16:49,982  WARN [Worker-16] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 14:17:10,340  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 14:17:10,340  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:04:59,385  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:04:59,394  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:05:01,210  WARN [Worker-23] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:05:01,210  WARN [Worker-23] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:06:05,251  WARN [Worker-24] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:06:05,259  WARN [Worker-24] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:06:08,803  WARN [Worker-24] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:06:08,804  WARN [Worker-24] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:09:27,610  WARN [Worker-24] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:09:27,611  WARN [Worker-24] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:09:28,495  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:09:28,496  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:09:28,646  WARN [Worker-16] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:09:28,646  WARN [Worker-16] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:09:55,328  WARN [Worker-14] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:09:55,328  WARN [Worker-14] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:10:00,526  WARN [Worker-24] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:10:00,526  WARN [Worker-24] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:10:44,431  WARN [Worker-9] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:10:44,431  WARN [Worker-9] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:11:22,190  WARN [main] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:11:22,190  WARN [main] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:11:22,306  WARN [Worker-23] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:11:22,306  WARN [Worker-23] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:11:27,301  WARN [Worker-9] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:11:27,301  WARN [Worker-9] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:11:35,981  WARN [Worker-23] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:11:35,981  WARN [Worker-23] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:11:43,613  WARN [Worker-23] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:11:43,613  WARN [Worker-23] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:11:58,960  WARN [Worker-9] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:11:58,961  WARN [Worker-9] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:12:17,232  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:12:17,232  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:15:47,065  WARN [Worker-24] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:15:47,073  WARN [Worker-24] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:15:58,537  WARN [Worker-23] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:15:58,538  WARN [Worker-23] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:16:00,704  WARN [Worker-9] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:16:00,704  WARN [Worker-9] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:17:11,348  WARN [Worker-25] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:17:11,350  WARN [Worker-25] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:17:58,213 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 15:17:58,214 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 15:17:58,214 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 15:18:42,529  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 399
+2015-08-18 15:18:49,687  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 407
+2015-08-18 15:18:49,688  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 407
+2015-08-18 15:18:53,251  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 412
+2015-08-18 15:18:53,252  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 412
+2015-08-18 15:18:54,267  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 414
+2015-08-18 15:18:54,267  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 414
+2015-08-18 15:18:56,837  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 418
+2015-08-18 15:18:56,841  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 418
+2015-08-18 15:18:57,898  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 433
+2015-08-18 15:18:57,899  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 433
+2015-08-18 15:22:02,332  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 433
+2015-08-18 15:22:02,340  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 433
+2015-08-18 15:22:17,068  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 433
+2015-08-18 15:22:17,070  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 433
+2015-08-18 15:23:12,254  WARN [Worker-25] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:23:12,254  WARN [Worker-25] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:23:48,775  WARN [Worker-14] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:23:48,775  WARN [Worker-14] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:24:02,683  WARN [Worker-9] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:24:02,683  WARN [Worker-9] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:27:14,414  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 494
+2015-08-18 15:29:03,920  WARN [Worker-23] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:29:03,920  WARN [Worker-23] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:29:13,216  WARN [Worker-14] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:29:13,216  WARN [Worker-14] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:29:17,925  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:29:17,925  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:29:20,889  WARN [Worker-16] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:29:20,889  WARN [Worker-16] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:29:44,911 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 15:29:44,911 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 15:29:44,911 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 15:29:47,198  WARN [Worker-9] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:29:47,198  WARN [Worker-9] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:37:03,654  WARN [Worker-9] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:37:03,654  WARN [Worker-9] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:37:42,460 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 15:37:42,460 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 15:37:42,461 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 15:37:52,361  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:37:52,361  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:38:41,334  WARN [Worker-26] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:38:41,335  WARN [Worker-26] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:39:37,016  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:39:37,016  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:41:26,169  WARN [Worker-14] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:41:26,169  WARN [Worker-14] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:41:35,202  WARN [Worker-16] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:41:35,202  WARN [Worker-16] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:41:54,053  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:41:54,053  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:48:52,740  WARN [Worker-23] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:48:52,741  WARN [Worker-23] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:50:54,284  WARN [Worker-16] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:50:54,285  WARN [Worker-16] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:54:27,711  WARN [Worker-23] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:54:27,712  WARN [Worker-23] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 15:55:11,487  WARN [Worker-9] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 15:55:11,487  WARN [Worker-9] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 17:24:39,355  WARN [Worker-28] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 17:24:39,363  WARN [Worker-28] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 17:24:41,276  WARN [Worker-27] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 17:24:41,276  WARN [Worker-27] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 17:24:44,243  WARN [Worker-27] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 17:24:44,244  WARN [Worker-27] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 17:27:40,346  WARN [Worker-28] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 17:27:40,346  WARN [Worker-28] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 17:27:46,484  WARN [Worker-28] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 17:27:46,484  WARN [Worker-28] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 17:28:03,706  WARN [Worker-27] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 17:28:03,706  WARN [Worker-27] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 17:28:03,948  WARN [Worker-30] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 17:28:03,948  WARN [Worker-30] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 17:28:06,735  WARN [Java indexing] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 17:28:06,735  WARN [Java indexing] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 17:28:32,561  WARN [Worker-29] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 17:28:32,561  WARN [Worker-29] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 17:29:01,026 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 17:29:01,026 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 17:29:01,026 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 17:29:01,399  WARN [Worker-30] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 17:29:01,399  WARN [Worker-30] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 17:29:14,856  WARN [Worker-27] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 17:29:14,856  WARN [Worker-27] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 17:30:04,771  WARN [Worker-31] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 17:30:04,771  WARN [Worker-31] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 17:30:30,807  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 17:30:30,807  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 17:30:40,269  WARN [Worker-28] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 17:30:40,269  WARN [Worker-28] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 17:30:47,695  WARN [Worker-29] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 17:30:47,696  WARN [Worker-29] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 17:31:46,710  WARN [Worker-31] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 17:31:46,710  WARN [Worker-31] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 17:31:54,070  WARN [Worker-28] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 17:31:54,070  WARN [Worker-28] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 17:38:08,671  WARN [Worker-29] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 17:38:08,671  WARN [Worker-29] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 18:04:14,441  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 18:04:14,441  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 18:04:19,153  WARN [Worker-23] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 18:04:19,153  WARN [Worker-23] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 18:18:34,001  WARN [Worker-31] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 18:18:34,002  WARN [Worker-31] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 18:18:41,409  WARN [Worker-32] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 18:18:41,409  WARN [Worker-32] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 18:18:42,050  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 18:18:42,050  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 18:18:55,192  WARN [Worker-23] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 18:18:55,192  WARN [Worker-23] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 18:19:11,081  WARN [Worker-23] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 18:19:11,081  WARN [Worker-23] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 18:19:18,509  WARN [Worker-31] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 18:19:18,509  WARN [Worker-31] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 18:20:01,301  WARN [Worker-33] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 18:20:01,301  WARN [Worker-33] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 18:20:52,808  WARN [Worker-29] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 18:20:52,808  WARN [Worker-29] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 18:21:15,705  WARN [Worker-29] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 18:21:15,705  WARN [Worker-29] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 18:21:18,692  WARN [Worker-23] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 18:21:18,692  WARN [Worker-23] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 18:22:47,781  WARN [Worker-32] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 18:22:47,781  WARN [Worker-32] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 18:23:10,161  WARN [Worker-32] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 18:23:10,161  WARN [Worker-32] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 18:24:16,529  WARN [Worker-32] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 18:24:16,529  WARN [Worker-32] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 19:10:42,357  WARN [Worker-31] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 19:10:42,366  WARN [Worker-31] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 19:10:42,842  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 19:10:42,843  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 19:17:43,065  WARN [Worker-31] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 19:17:43,066  WARN [Worker-31] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 19:35:14,704  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-08-18 19:35:18,565  WARN [Worker-31] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 19:35:18,565  WARN [Worker-31] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 19:35:27,042  WARN [Worker-28] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 19:35:27,042  WARN [Worker-28] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 19:35:36,697  WARN [Worker-31] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 19:35:36,698  WARN [Worker-31] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 19:35:37,490 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 19:35:37,490 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 19:35:37,490 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 19:35:37,490 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 19:35:37,490 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 19:35:37,490 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 19:35:37,490 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 19:35:37,490 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 19:35:37,490 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 19:35:37,491 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 19:35:40,009  WARN [Worker-35] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 19:35:40,010  WARN [Worker-35] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 19:47:30,104  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 19:47:30,111  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 19:47:37,689  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 19:47:37,689  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 19:48:23,775  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 19:48:23,775  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 19:48:27,847  WARN [Worker-29] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 19:48:27,847  WARN [Worker-29] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 19:49:01,654  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 19:49:01,655  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 19:49:14,035  WARN [Worker-35] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 19:49:14,035  WARN [Worker-35] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 19:50:49,871 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 19:50:49,871 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 19:50:49,873 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 19:51:08,715  WARN [Worker-31] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 19:51:08,716  WARN [Worker-31] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 19:51:22,317  WARN [Worker-35] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 19:51:22,317  WARN [Worker-35] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 19:51:26,303  WARN [Worker-31] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 19:51:26,304  WARN [Worker-31] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 19:51:33,257 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 19:51:33,257 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 19:51:33,257 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 19:51:35,997  WARN [Worker-36] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 19:51:35,997  WARN [Worker-36] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 19:51:38,652  WARN [Worker-28] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 19:51:38,652  WARN [Worker-28] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 19:52:24,362  WARN [Worker-29] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 19:52:24,362  WARN [Worker-29] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 19:52:31,601  WARN [Worker-28] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 19:52:31,601  WARN [Worker-28] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 19:55:02,691 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 19:55:07,627  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 19:55:07,627  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 19:55:20,876  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-08-18 19:55:32,969  WARN [Worker-37] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 19:55:32,969  WARN [Worker-37] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 19:55:45,539  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 19:55:45,539  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 19:56:23,034  WARN [Worker-29] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 19:56:23,035  WARN [Worker-29] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 19:59:50,351  WARN [Worker-36] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 19:59:50,352  WARN [Worker-36] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 19:59:52,134 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 19:59:52,135 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 19:59:52,135 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 19:59:57,881  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 19:59:57,881  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:00:11,634  WARN [Worker-37] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:00:11,635  WARN [Worker-37] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:02:45,350  WARN [Worker-29] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:02:45,350  WARN [Worker-29] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:02:49,839  WARN [Worker-23] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:02:49,839  WARN [Worker-23] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:03:41,564  WARN [Worker-37] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:03:41,565  WARN [Worker-37] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:03:43,723 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 20:03:43,724 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 20:03:43,941  WARN [Worker-28] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:03:43,941  WARN [Worker-28] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:03:50,191  WARN [Worker-23] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:03:50,191  WARN [Worker-23] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:06:29,541 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 20:06:29,541 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 20:06:29,542 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 20:06:33,872  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 743
+2015-08-18 20:06:36,399  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 749
+2015-08-18 20:06:38,971  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 751
+2015-08-18 20:06:40,525  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 752
+2015-08-18 20:06:40,526  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 752
+2015-08-18 20:06:41,583  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 481
+2015-08-18 20:07:17,979  WARN [Worker-29] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:07:17,979  WARN [Worker-29] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:08:07,268  WARN [Worker-23] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:08:07,269  WARN [Worker-23] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:08:12,106  WARN [Worker-28] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:08:12,106  WARN [Worker-28] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:08:14,563  WARN [Worker-29] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:08:14,563  WARN [Worker-29] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:08:17,479  WARN [Worker-29] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:08:17,480  WARN [Worker-29] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:08:31,699  WARN [Worker-29] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:08:31,699  WARN [Worker-29] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:08:54,301  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:08:54,302  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:09:02,500 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 20:09:02,500 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 20:09:02,500 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 20:09:08,636  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:09:08,636  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:09:15,602  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:09:15,602  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:09:18,873  WARN [Worker-36] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:09:18,873  WARN [Worker-36] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:10:03,368 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 20:10:03,368 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 20:10:03,368 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 20:10:49,889  WARN [Worker-31] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:10:49,889  WARN [Worker-31] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:11:19,576  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 854
+2015-08-18 20:11:26,170  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 857
+2015-08-18 20:11:26,171  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 857
+2015-08-18 20:11:52,121 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 20:11:52,121 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 20:11:52,121 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 20:12:10,325  WARN [Worker-36] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:12:10,325  WARN [Worker-36] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:12:39,777  WARN [Worker-29] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:12:39,778  WARN [Worker-29] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:12:41,754 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 20:12:41,754 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 20:12:41,754 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 20:13:32,322  WARN [Worker-36] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:13:32,322  WARN [Worker-36] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:13:48,479  WARN [Worker-28] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:13:48,479  WARN [Worker-28] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:13:54,226 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 20:13:54,227 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 20:13:54,227 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 20:14:03,542  WARN [Worker-31] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:14:03,542  WARN [Worker-31] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:14:07,359  WARN [Worker-37] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:14:07,359  WARN [Worker-37] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:14:24,080  WARN [Worker-36] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:14:24,081  WARN [Worker-36] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:14:26,602  WARN [Worker-36] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:14:26,602  WARN [Worker-36] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:14:51,808 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 20:14:51,809 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 20:14:51,809 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 20:14:52,897  WARN [Worker-29] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:14:52,897  WARN [Worker-29] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:15:01,035  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:15:01,035  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:15:08,989  WARN [Worker-36] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:15:08,989  WARN [Worker-36] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:15:21,860  WARN [Worker-28] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:15:21,860  WARN [Worker-28] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:15:24,870  WARN [Worker-29] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:15:24,871  WARN [Worker-29] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:15:40,998  WARN [Worker-28] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:15:40,999  WARN [Worker-28] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:15:43,621  WARN [Worker-23] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:15:43,621  WARN [Worker-23] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:15:58,521  WARN [Worker-36] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:15:58,521  WARN [Worker-36] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:16:01,385  WARN [Worker-36] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:16:01,386  WARN [Worker-36] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:16:17,368  WARN [Worker-28] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:16:17,368  WARN [Worker-28] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:16:25,512  WARN [Worker-23] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:16:25,512  WARN [Worker-23] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:16:32,701  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:16:32,701  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:16:35,886  WARN [Worker-10] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:16:35,886  WARN [Worker-10] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:16:46,578 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 20:16:46,579 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 20:16:46,579 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 20:16:48,690  WARN [Worker-38] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:16:48,690  WARN [Worker-38] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:16:51,514  WARN [Worker-31] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:16:51,514  WARN [Worker-31] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:17:38,278 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 20:17:38,360 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 20:17:38,360 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 20:17:38,360 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-18 20:17:40,031  WARN [Worker-36] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:17:40,031  WARN [Worker-36] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:17:48,563  WARN [Worker-37] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:17:48,564  WARN [Worker-37] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:18:01,520  WARN [Worker-36] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:18:01,520  WARN [Worker-36] - ScalaProject - Project Test runs on platform default installation.
+2015-08-18 20:18:05,332  WARN [Worker-36] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-18 20:18:05,334  WARN [Worker-36] - ScalaProject - Project Test runs on platform default installation.
+2015-08-19 15:20:42,094  WARN [main] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-19 15:20:42,096  WARN [main] - ScalaProject - Project Test runs on platform default installation.
+2015-08-19 15:20:42,102  WARN [main] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-19 15:20:42,102  WARN [main] - ScalaProject - Project Test runs on platform default installation.
+2015-08-20 11:04:25,779  WARN [main] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-20 11:04:25,781  WARN [main] - ScalaProject - Project Test runs on platform default installation.
+2015-08-20 11:04:25,787  WARN [main] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-20 11:04:25,787  WARN [main] - ScalaProject - Project Test runs on platform default installation.
+2015-08-20 22:11:29,100  WARN [Worker-39] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-20 22:11:29,102  WARN [Worker-39] - ScalaProject - Project Test runs on platform default installation.
+2015-08-22 19:29:45,648  WARN [main] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-22 19:29:45,651  WARN [main] - ScalaProject - Project Test runs on platform default installation.
+2015-08-22 19:29:45,670  WARN [main] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-22 19:29:45,672  WARN [main] - ScalaProject - Project Test runs on platform default installation.
+2015-08-22 19:32:45,152  WARN [Worker-0] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-22 19:32:45,153  WARN [Worker-0] - ScalaProject - Project Test runs on platform default installation.

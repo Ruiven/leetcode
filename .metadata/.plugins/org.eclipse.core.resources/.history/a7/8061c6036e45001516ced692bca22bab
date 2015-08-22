@@ -1,0 +1,7 @@
+name := "ruiwen_test_sbt"  
+  
+version := "1.0"  
+  
+scalaVersion := "2.10.3"
+
+EclipseKeys.createSrc := EclipseCreateSrc.Default + EclipseCreateSrc.Resource
