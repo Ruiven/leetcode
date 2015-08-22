@@ -688,3 +688,7 @@
 2015-08-22 19:29:45,672  WARN [main] - ScalaProject - Project Test runs on platform default installation.
 2015-08-22 19:32:45,152  WARN [Worker-0] - ScalaProject - Project Test has platform default sourceLevel.
 2015-08-22 19:32:45,153  WARN [Worker-0] - ScalaProject - Project Test runs on platform default installation.
+2015-08-22 20:33:49,680  WARN [Worker-7] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-22 20:33:49,682  WARN [Worker-7] - ScalaProject - Project Test runs on platform default installation.
+2015-08-22 20:33:50,853  WARN [Worker-9] - ScalaProject - Project Test has platform default sourceLevel.
+2015-08-22 20:33:50,853  WARN [Worker-9] - ScalaProject - Project Test runs on platform default installation.

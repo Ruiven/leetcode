@@ -1,0 +1,37 @@
+package main;
+
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.List;
+
+
+class TreeNode {
+	int val;
+	TreeNode left;
+	TreeNode right;
+	TreeNode(int x) { val = x; }
+}
+
+public class Solution {
+	public int sumNumbers(TreeNode root) {
+		return recursive(root, new int[1]);
+     }
+	
+	int recursive(TreeNode root, int level[]) {
+		
+		
+		int total = 0;
+		if(root.left != null) {
+			int left = recursive(root.left, level);
+			total += root.val * Math.pow(10, level[0]) + left;
+		}
+		if(root.right != null) {
+			int right = recursive(root.right, level);
+			total += root.val * Math.pow(10, level[0]) + right;
+		}
+		
+		return total;
+	}
+	
+	
+}
