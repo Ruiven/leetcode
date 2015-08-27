@@ -1,7 +1,0 @@
-package main;
-
-public class Solution {
-	public List<List<String>> findLadders(String start, String end, Set<String> dict) {
-        
-    }
-}

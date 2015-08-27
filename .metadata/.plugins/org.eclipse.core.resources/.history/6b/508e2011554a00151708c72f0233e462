@@ -1,0 +1,42 @@
+package main;
+
+public class Solution {
+	
+	public static boolean isPalindrome(String s) {
+        if(s == null)
+        	return false;
+        if(s.length() == 0)
+        	return true;
+        
+        int p = 0, q = s.length()-1;
+        while(p < q) {
+        	if(s.charAt(p) != s.charAt(q))
+        		return false;
+        	p++;
+        	q--;
+        }
+        return true;
+    }
+	
+	
+	public static int minCut(String s) {
+		int res[] = new int[s.length()+1];
+		res[0] = -1;
+		res[1] = 0;
+		for(int i = 1 ; i < s.length(); i++) {
+			int min = Integer.MAX_VALUE;
+			for(int j = 0; j < i; j++) {
+				if(isPalindrome(s.substring(j, i+1))) {
+					if(res[j] + 1 < min)
+						min = res[j] + 1;
+				}
+			}
+			res[i+1] = min;
+		}
+		return res[s.length()+1];
+    }
+	
+	public static void main(String[] args) {
+		System.out.print(minCut("aab"));
+	}
+}
