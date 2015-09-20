@@ -1,0 +1,53 @@
+package main;
+
+public class Solution {
+	public static int candy(int[] ratings) {
+		
+        if(ratings == null || ratings.length == 0)
+        	return 0;
+        
+        int[] res = new int[ratings.length];
+        res[0] = 1;
+        
+        int lastSummit = 0;
+        
+        for(int i = 1 ; i < ratings.length; i++) {
+        	if(ratings[i] > ratings[i-1]) {
+        		res[i] = res[i-1] + 1;
+        		if(res[i-1] != 1) {
+        			for(int j = lastSummit; j <i ; j++ ) {
+        				res[j] -= res[i-1] -1;
+        			}
+        		}
+        		lastSummit = i;
+        	}
+        	
+        	if(ratings[i] == ratings[i-1]) {
+        		res[i] = 1;
+        		lastSummit = i;
+        	}
+        	
+        	if(ratings[i] < ratings[i-1]) {
+        		res[i] = res[i-1] - 1;
+        	}
+        }
+        
+       if((res[res.length-2] > res[res.length-1]) &&  res[res.length-1] != 1) {
+			for(int j = lastSummit; j <res.length ; j++ ) {
+				res[j] -= res[res.length-1] -1;
+			}
+		}
+        
+        int total = 0;
+        for(int i = 0 ; i < res.length; i++)
+        	total += res[i];
+        
+        return total;
+        
+    }
+	
+	public static void main(String[] args) {
+		int []ratings = {1,5,4,3,2,1};
+		System.out.print(candy(ratings));
+	}
+}

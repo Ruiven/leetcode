@@ -1,7 +1,0 @@
-package main;
-
-public class Solution {
-	public int sumNumbers(TreeNode root) {
-        
-    }
-}
