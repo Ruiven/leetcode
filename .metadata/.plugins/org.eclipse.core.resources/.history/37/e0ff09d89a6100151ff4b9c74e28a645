@@ -1,0 +1,65 @@
+package main;
+
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Stack;
+
+class RandomListNode {
+	int label;
+	RandomListNode next, random;
+	RandomListNode(int x) { this.label = x; }
+};
+
+public class Solution {
+	public RandomListNode copyRandomList(RandomListNode head) {
+		if(head == null)
+			return null;
+	
+		Stack<RandomListNode> originStack = new Stack<>();
+		Stack<RandomListNode> copyStack = new Stack<>();
+		
+		Map<RandomListNode, RandomListNode> map = new HashMap<>();
+		
+		RandomListNode copyHead = new RandomListNode(head.label);
+		
+		originStack.push(head);
+		copyStack.push(copyHead);
+		
+		while(!originStack.isEmpty()) {
+			
+			RandomListNode origin = originStack.pop();
+			RandomListNode copy = copyStack.pop();
+			if(map.containsKey(origin))
+				continue;
+			
+			map.put(origin, copy);
+			
+			if(origin.next != null) {
+				if(map.containsKey(origin.next)) {
+					copy.next = map.get(origin.next);
+				}
+				else {
+					copy.next = new RandomListNode(origin.next.label);
+					copyStack.push(copy.next);
+					originStack.push(origin.next);
+				}
+			}
+			
+			
+			if(origin.random != null) {
+				if(map.containsKey(origin.random)) {
+					copy.random = map.get(origin.random);
+				}
+				else {
+					copy.random = new RandomListNode(origin.random.label);
+					copyStack.push(copy.random);
+					originStack.push(origin.random);
+				}
+			}
+			
+		}
+        
+		return copyHead;
+		
+    }
+

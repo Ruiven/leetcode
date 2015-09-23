@@ -1,0 +1,27 @@
+package main;
+
+class RandomListNode {
+	int label;
+	RandomListNode next, random;
+	RandomListNode(int x) { this.label = x; }
+};
+
+public class Solution {
+	public RandomListNode copyRandomList(RandomListNode head) {
+		if(head == null)
+			return null;
+		
+        RandomListNode copyHead = new RandomListNode(head.label);
+   
+        RandomListNode copyPtr = copyHead;
+        
+        head = head.next;
+        		
+        
+        while(head != null) {
+        	head = head.next;
+        	copyPtr.next = new RandomListNode(head.next.label);
+        	copyPtr = copyPtr.next;
+        }
+    }
+}

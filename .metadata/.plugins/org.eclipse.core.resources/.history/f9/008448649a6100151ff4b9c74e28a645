@@ -1,0 +1,58 @@
+package main;
+
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Map;
+import java.util.Set;
+import java.util.Stack;
+
+class RandomListNode {
+	int label;
+	RandomListNode next, random;
+	RandomListNode(int x) { this.label = x; }
+};
+
+public class Solution {
+	public RandomListNode copyRandomList(RandomListNode head) {
+		if(head == null)
+			return null;
+	
+		Stack<RandomListNode> originStack = new Stack<>();
+		Stack<RandomListNode> copyStack = new Stack<>();
+		
+		Map<RandomListNode, RandomListNode> map = new HashMap<>();
+		
+		RandomListNode copyHead = new RandomListNode(head.label);
+		
+		originStack.push(head);
+		copyStack.push(copyHead);
+		
+		while(!originStack.isEmpty()) {
+			
+			RandomListNode origin = originStack.pop();
+			RandomListNode copy = copyStack.pop();
+			if(visited.contains(origin))
+				continue;
+			
+			visited.add(origin);
+			
+			if(origin.next != null) {
+				if(visited.contains(origin.next)
+				copy.next = new RandomListNode(origin.next.label);
+				copyStack.push(copy.next);
+				originStack.push(origin.next);
+			}
+			
+			
+			if(origin.random != null) {
+				copy.random = new RandomListNode(origin.random.label);
+				copyStack.push(copy.random);
+				originStack.push(origin.random);
+			}
+			
+		}
+        
+		return copyHead;
+		
+    }
+}

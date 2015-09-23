@@ -1,0 +1,16 @@
+package main;
+
+class RandomListNode {
+	int label;
+	RandomListNode next, random;
+	RandomListNode(int x) { this.label = x; }
+};
+
+public class Solution {
+	public RandomListNode copyRandomList(RandomListNode head) {
+		if(head == null)
+			return head;
+        RandomListNode copyHead = new RandomListNode(head.label);
+        
+    }
+}
