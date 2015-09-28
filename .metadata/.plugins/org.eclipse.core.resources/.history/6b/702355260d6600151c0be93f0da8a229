@@ -1,0 +1,23 @@
+package main;
+
+import java.util.Set;
+
+public class Solution {
+	public boolean wordBreak(String s, Set<String> wordDict) {
+        
+		if(s == null)
+			return false;
+		if(s.length() == 0 && wordDict.size() == 0)
+			return true;
+		
+		
+		boolean res[s.length()] = new boolean[]; 
+		
+		for(int i = 0 ; i < s.length(); i++) {
+			
+		}
+				
+		
+		
+    }
+}
